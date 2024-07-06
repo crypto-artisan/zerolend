@@ -1,0 +1,66 @@
+[
+    {
+    "id":1,
+    "icon": "https://app.zerolend.xyz/icons/tokens/eth.svg",
+    "itemName":"Ethereum" ,
+    "itemSurname":"ETH",
+    "totalSupplied":22.97 ,
+    "supliedPrice": 80.1,
+    "supplyAPY": {
+        "sTotalpercentage":2.57,
+        "sRewards":0.27,
+        "gravityPoints":[
+            "2x Gravity Point","LXP- l Point","Turtle Point"
+        ]
+    },
+    "totalBorrowed": 17.72,
+    "borrowedPrice": 61.85,
+    "borrowAPY": {
+        "bTotalpercentage":3.93,
+        "bRewards":0.27,
+        "bGravityPoints":[
+            "4x Gravity Point","LXP- l Refferal Point"
+        ]
+    }
+  },
+  {
+    "id":2,
+    "icon": "https://app.zerolend.xyz/icons/tokens/dai.svg",
+    "itemName":"Dai Stablecoin" ,
+    "itemSurname":"DAI",
+    "totalSupplied":351.45 ,
+    "supliedPrice": 351.40,
+    "supplyAPY": {
+        "sTotalpercentage":10.92,
+        "sRewards":0 ,
+        "gravityPoints":[
+            "1x Gravity Points","tZerolendShield","Turtle Points"
+        ]
+    },
+    "totalBorrowed": 169.89,
+    "borrowedPrice": 169.86,
+    "borrowAPY": {
+        "bTotalpercentage":28.68,
+        "bRewards":7.18,
+        "bGravityPoints":[]
+    }
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

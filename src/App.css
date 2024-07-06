@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root{
+  --primary-color:#13152c;
+  --secondary-color:#27264c;
+}
+
+.border-lite{
+  border: 1px solid rgba(101, 101, 101, 0.729);
+}
+
+/* Gradient Bg*/
+.gradient-background {
+  background: linear-gradient(347deg,#030c22,#050505,#30005e,#080256);
+  background-size: 240% 240%;
+  animation: gradient-animation 32s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
